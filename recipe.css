@@ -1,0 +1,102 @@
+
+body{
+    font-family:sans-serif;
+    color: #444;
+    background-color: #e8f0ff;
+    padding: 200px;
+}
+
+/* Header styling */
+.recipe-header {
+    text-align: center;
+    background-color: #ffebcc;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    width: 98%;
+}
+
+.main-head {
+    font-family: serif;
+    font-size: 40px;
+    color: #ff7043;
+    margin-bottom: 20px;
+}
+
+.pasta-img {
+    width: 80%;
+    border-radius: 10px;
+}
+
+
+
+/* Recipe Details Table */
+.recipe-details {
+    text-align: center;
+    background-color: #fff;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 12px;
+    width: 98%;
+}
+
+.recipe-table {
+    width: 90%;
+    margin:20px;
+}
+
+.table-elements {
+    padding: 12px;
+    font-size: 20px;
+}
+
+.table-headers {
+    background-color: #ff7043;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.table-data{
+    background-color: #ffebcc;
+    color: #444;
+}
+
+
+/*instructions navigating button*/
+#start-button {
+    padding: 24px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ff7043;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
+
+
+/* Ingredients and Instructions Section */
+.ingredients_and_instructions {
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 12px;
+    width: 97%;
+}
+
+.head2 {
+    font-size: 30px;
+    color: #ff7043;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.list {
+    padding-left:35%;
+    font-size: 20px;
+}
+
+.list-elements{
+    padding: 8px;
+    padding-left: 25px;
+    color: #444;
+}
